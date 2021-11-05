@@ -1,0 +1,7 @@
+﻿Name:Descripcion:Path
+UsuariosALCOY:Unidad Organizativa de ALCOY:DC=alcoy,DC=upv,DC=es
+OrdenadoresALCOY:Unidad Organizativa de los ordenadores de ALCOY:OU=UsuariosALCOY,DC=alcoy,DC=upv,DC=es
+Prensa:Unidad Organizativa de Prensa:OU=UsuariosALCOY,DC=alcoy,DC=upv,DC=es
+Energia:Unidad Organizativa de Energia:OU=UsuariosALCOY,DC=alcoy,DC=upv,DC=es
+Industria:Unidad Organizativa de Industria:OU=UsuariosALCOY,DC=alcoy,DC=upv,DC=es
+Informatica:Unidad Organizativa de Informatica:OU=UsuariosALCOY,DC=alcoy,DC=upv,DC=es
